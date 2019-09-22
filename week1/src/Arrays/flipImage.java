@@ -1,7 +1,6 @@
 package Arrays;
 
 public class flipImage {
-
     public int[][] flipAndInvertImage(int[][] A) {
 
         String[] S = new String[A.length];
